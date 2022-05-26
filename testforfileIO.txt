@@ -1,2 +1,3 @@
-Oh no you overwrote everything :C
-You appended to the test file c:
+This is my test file
+I will be using it to read and write 
+:D
